@@ -1,4 +1,4 @@
-# API Documentation HTML Template
+# API Documentation for PAYMEQUICK
 
 ### A simple, modern and readable HTML template for APIs documentations
 
